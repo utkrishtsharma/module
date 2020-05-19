@@ -1,0 +1,173 @@
+{
+    "utterence": [
+        {
+            "utterance": "hey look around here from barn store are you doing today thanks how are you good good i'm multiple",
+            "speaker": "S0",
+            "startTime": "0.01",
+            "sentiment": "Positive",
+            "sentimentScore": 0.39999999999999997
+        },
+        {
+            "utterance": "go over your estimate report your new band or that i'm this morning all right so",
+            "speaker": "S0",
+            "startTime": "8.55",
+            "sentiment": "Positive",
+            "sentimentScore": 0.21103896103896103
+        },
+        {
+            "utterance": "he did estimate the job to be for hundred cubic feet okay so for hundred cubic feet you're looking at two hundred and eight dollars a month",
+            "speaker": "S0",
+            "startTime": "15.87",
+            "sentiment": "Positive",
+            "sentimentScore": 0.5
+        },
+        {
+            "utterance": "to have it oh sure thing and not based on science night sorry ah",
+            "speaker": "S0",
+            "startTime": "29.84",
+            "sentiment": "neutral",
+            "sentimentScore": 0.0
+        },
+        {
+            "utterance": "yes the two hundred and eight tough times five",
+            "speaker": "S18",
+            "startTime": "38.33",
+            "sentiment": "Negative",
+            "sentimentScore": -0.3888888888888889
+        },
+        {
+            "utterance": "which is one thousand forty then plus extra two hundred dollars for pickup as work for see we're looking at about one thousand two hundred and forty eight dollars for five months to store including pick up and return okay and say what was that i of two",
+            "speaker": "S18",
+            "startTime": "42.87",
+            "sentiment": "Positive",
+            "sentimentScore": 0.25
+        },
+        {
+            "utterance": "hundred and eight dollars that would be a pickup it are kind of a five month term as an additional months cause",
+            "speaker": "S18",
+            "startTime": "59.42",
+            "sentiment": "Positive",
+            "sentimentScore": 0.6
+        },
+        {
+            "utterance": "oh ok excellent okay great and and and",
+            "speaker": "S0",
+            "startTime": "64.23",
+            "sentiment": "Positive",
+            "sentimentScore": 0.7
+        },
+        {
+            "utterance": "i created",
+            "speaker": "S13",
+            "startTime": "72.23",
+            "sentiment": "neutral",
+            "sentimentScore": 0.0
+        },
+        {
+            "utterance": "and packing everything yes",
+            "speaker": "S12",
+            "startTime": "79.36",
+            "sentiment": "neutral",
+            "sentimentScore": 0.0
+        },
+        {
+            "utterance": "packing materials and everything so all of that will be okay",
+            "speaker": "S0",
+            "startTime": "82.49",
+            "sentiment": "Positive",
+            "sentimentScore": 0.5
+        },
+        {
+            "utterance": "and sam trying to get down to keep kicking a",
+            "speaker": "S12",
+            "startTime": "88.42",
+            "sentiment": "Negative",
+            "sentimentScore": -0.15555555555555559
+        },
+        {
+            "utterance": "little i'm sure if on thanks",
+            "speaker": "S0",
+            "startTime": "90.93",
+            "sentiment": "Positive",
+            "sentimentScore": 0.1708333333333333
+        },
+        {
+            "utterance": "to the final four be two hundred and eight times sex which is one thousand two hundred and forty eight dollars",
+            "speaker": "S18",
+            "startTime": "96.57",
+            "sentiment": "neutral",
+            "sentimentScore": 0.0
+        },
+        {
+            "utterance": "okay",
+            "speaker": "S13",
+            "startTime": "103.4",
+            "sentiment": "Positive",
+            "sentimentScore": 0.5
+        },
+        {
+            "utterance": "and that you claim that to on no no no no",
+            "speaker": "S12",
+            "startTime": "106.96",
+            "sentiment": "neutral",
+            "sentimentScore": 0.0
+        },
+        {
+            "utterance": "so what you would have to pay upfront would be a pickup the return feet which is two hundred and eight dollars i'm and then a prorated charge for however many days or less than a month i'm and then you get charged the beginning of each month so the ninety nine dollars deposit you did put down would go towards your store fee",
+            "speaker": "S18",
+            "startTime": "109.58",
+            "sentiment": "neutral",
+            "sentimentScore": 0.05925925925925926
+        },
+        {
+            "utterance": "ok then i think i had for a tour to fifteen right sort of everything seems well then i can check the contract you okay and and that",
+            "speaker": "S0",
+            "startTime": "128.28",
+            "sentiment": "Positive",
+            "sentimentScore": 0.42857142857142855
+        },
+        {
+            "utterance": "was space time you just trying everything a and yes it's it's and then again it's the items that",
+            "speaker": "S12",
+            "startTime": "143.44",
+            "sentiment": "neutral",
+            "sentimentScore": 0.0
+        },
+        {
+            "utterance": "he estimated which was your living room and three couch set with the coffee table and then the garage which is box tools toys and other miscellaneous items okay okay awesome so i'll send you a review it get assigned back before your job big no rush and we'll okay",
+            "speaker": "S18",
+            "startTime": "150.02",
+            "sentiment": "Positive",
+            "sentimentScore": 0.3392857142857143
+        },
+        {
+            "utterance": "okay perfect think you sound like you're going to say you know it's me that yeah i'll email or to you by the end of a by * * okay oh yeah no worries thank you so much i appreciate that no problem like you might need to get you can't prepare for them to come out here",
+            "speaker": "S12",
+            "startTime": "168.1",
+            "sentiment": "Positive",
+            "sentimentScore": 0.52
+        },
+        {
+            "utterance": "i'm nothing so you can leave everything in the way it is there pack everything you don't need to buy materials obviously just relax we'll do everything for you all you need to do is just how the contract signed before your job guys",
+            "speaker": "S18",
+            "startTime": "180.77",
+            "sentiment": "neutral",
+            "sentimentScore": 0.0
+        },
+        {
+            "utterance": "it okay that don't see that as it does come in and pack everything correct perfect okay okay they say they might have any other questions no problem okay thank you can you bye",
+            "speaker": "S12",
+            "startTime": "192.7",
+            "sentiment": "Positive",
+            "sentimentScore": 0.4791666666666667
+        }
+    ],
+    "overallSentiment": [
+        {
+            "positivity": 0.4306843156843157,
+            "negativity": -0.27222222222222225,
+            "overallSentiment": "positve",
+            "sentimentScore": 0.22233525733525736
+        }
+    ]
+}
